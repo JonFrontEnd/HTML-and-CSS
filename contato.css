@@ -1,0 +1,48 @@
+body {
+    background-color: black;
+}
+h1{
+    text-align: center;
+    color: aliceblue;
+    font-size: bold;
+    text-transform: uppercase;
+}
+
+header {
+    text-align: center;
+    width: 80%;
+    padding: 5%;
+}
+
+label {
+    color: aliceblue;
+}
+
+ 
+form label {
+    width: 150px;
+    display: block;
+    font-size: 18px;
+    margin:0 0 10px;
+    padding: 10px 10px;
+}
+
+#submit{
+    
+    cursor: pointer;
+    width: 10% ;
+    display: block;
+    color: rgb(14, 0, 0);
+    margin:2% 0 0 ;
+  padding: 9px;
+}
+#submit:hover{
+color: rgb(4, 0, 255);
+} 
+
+p {
+    font-size: 20px;
+    color: aliceblue;
+    padding: 12px;
+    margin: 2 0 0%;
+}

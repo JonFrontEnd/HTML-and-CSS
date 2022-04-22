@@ -1,0 +1,143 @@
+body{
+    background-color: rgb(3, 0, 0);
+    position: absolute;
+    top: 15%;
+    right: 0%;
+    color: aliceblue;
+}
+.logoprincipal {
+    margin: 0px;
+    padding: 0% ;
+    vertical-align: top 5%;
+    width: 40%;
+    display:inline-block
+    
+}
+h1 {color: rgb(255, 255, 255);}
+h1 {text-align: center}
+
+
+p {
+   margin: 10px;
+    text-align:left;
+      
+   
+}
+
+
+
+
+.chapeu{
+    position: absolute;
+    right: 25%;
+    top: 15%;
+}
+
+
+h1 {
+    border: 3px solid rgb(12, 12, 12);
+}
+
+
+
+
+.principalluffy {
+    width: 30%;
+    display:inline-block  
+}
+
+
+
+.principalzoro {
+    width: 20%;
+    display:inline-block    
+}
+
+
+.principalsanji{
+width: 20%;
+    display:inline-block
+
+}
+
+.principalusopp
+{width: 20%;
+    display:inline-block}
+
+.principalbrook
+{
+    width: 20%;
+    display:inline-block
+}
+
+h2 {
+
+    font-size: 100%;
+    font-weight: bold;
+}
+
+.procuradoluffy{
+    
+    position: absolute;
+    top: 12%;
+    right: 10%;
+    padding: 10px 500px ;
+    margin: 10 2.5%;
+    vertical-align: bottom;
+width:15%;
+display:inline-block
+}
+
+.procuradozoro{
+    position: absolute;
+    top: 31%;
+    right: 10%;
+    padding: 10px 500px ;
+    margin: 10 2.5%;
+    vertical-align: bottom;
+width:15%;
+display:inline-block
+}
+
+.procuradosanji{
+    position: absolute;
+    top: 55%;
+    right: 10%;
+    padding: 10px 500px ;
+    margin: 10 2.5%;
+    vertical-align: bottom;
+width:15%;
+display:inline-block
+}
+
+.procuradousopp{
+    position: absolute;
+    top: 80%;
+    right: 10%;
+    padding: 10px 500px ;
+    margin: 10 2.5%;
+    vertical-align: bottom;
+width:15%;
+display:inline-block
+}
+footer p {
+    text-align:center;
+    font-size: 13px;
+}
+
+main h2:hover{
+    color: rgb(255, 0, 0);
+    font-size: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
