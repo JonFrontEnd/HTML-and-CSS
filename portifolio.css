@@ -1,0 +1,93 @@
+/*Texto de boa vimda */
+
+@keyframes colors{
+    0%{
+background-position: 0% 50%;
+    }
+    50%{
+background-position: 100% 50%;
+    }
+    100%{
+background-position: 0% 50%;
+    }
+}
+
+body{
+    background:linear-gradient(20deg,#383838 , #1A132F,#1A1A40, #1F1D36 , #150050 , #230444);
+    background-size: 300% 300%;
+    animation: colors 2s ease infinite;
+}
+
+
+
+.portfolio{ 
+    color: rgb(255, 255, 255);
+    padding: 15px;
+    font-size: 25px;
+    text-align: center;
+    font-family: 'Prata', serif;
+
+}
+
+h1{
+    padding: 25px 0 5 ;
+    color: rgb(255, 254, 254);
+    font-size: 25px;
+}
+main p {
+    padding: 5px 0 0;
+    color: white;
+}
+
+h2{
+    padding: 25px 0 0;
+    font-size: 25px;
+    color: white;
+}
+p{
+    padding: 20px 0 0;
+    color:white;
+    font-style: italic;
+}
+h1:hover{
+    font-size: 35px;
+    color:red ;
+    transition: 3s;
+}
+h2:hover{
+    font-size: 35px;
+    color:red ;
+    transition: 3s;
+}
+
+.imagens{
+    padding: 15px 0 0;
+}
+
+h3{
+    
+    font-size: 25px ;
+    color: white;
+    padding: 18px 0 0;
+}
+
+h3:hover{
+    font-size: 30px;
+    color: red;
+    transition: 3s;
+
+}
+.linguagem {
+    padding: 25px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
